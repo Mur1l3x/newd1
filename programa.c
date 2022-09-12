@@ -8,4 +8,5 @@ int main()
     scanf("%d", &n1);
     result = n1 + 8;
     printf("Sua idade em 2030 será de %i", result);
+    return 0;
 }
